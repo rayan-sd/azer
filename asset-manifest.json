@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/azer/static/css/main.2149c6d6.css",
+    "main.css": "/azer/static/css/main.d600bbb7.css",
     "main.js": "/azer/static/js/main.3cf0fbca.js",
     "static/js/787.05198fd8.chunk.js": "/azer/static/js/787.05198fd8.chunk.js",
     "static/media/gif1.gif": "/azer/static/media/gif1.fe1e080e039d6709acc1.gif",
@@ -40,12 +40,12 @@
     "static/media/linkedin.svg": "/azer/static/media/linkedin.f912a382e4deb8bf223bdde7f1dd12c8.svg",
     "static/media/fb.svg": "/azer/static/media/fb.46a3f7f159579a7df6c8333d186e6aec.svg",
     "index.html": "/azer/index.html",
-    "main.2149c6d6.css.map": "/azer/static/css/main.2149c6d6.css.map",
+    "main.d600bbb7.css.map": "/azer/static/css/main.d600bbb7.css.map",
     "main.3cf0fbca.js.map": "/azer/static/js/main.3cf0fbca.js.map",
     "787.05198fd8.chunk.js.map": "/azer/static/js/787.05198fd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2149c6d6.css",
+    "static/css/main.d600bbb7.css",
     "static/js/main.3cf0fbca.js"
   ]
 }
