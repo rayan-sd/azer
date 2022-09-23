@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/azer/static/css/main.b62c0db0.css",
+    "main.css": "/azer/static/css/main.e1c0609f.css",
     "main.js": "/azer/static/js/main.7fbff439.js",
     "static/js/787.05198fd8.chunk.js": "/azer/static/js/787.05198fd8.chunk.js",
     "static/media/back-roadmap.png": "/azer/static/media/back-roadmap.7d3bd2615b5020e538b4.png",
@@ -41,12 +41,12 @@
     "static/media/linkedin.svg": "/azer/static/media/linkedin.f912a382e4deb8bf223bdde7f1dd12c8.svg",
     "static/media/fb.svg": "/azer/static/media/fb.46a3f7f159579a7df6c8333d186e6aec.svg",
     "index.html": "/azer/index.html",
-    "main.b62c0db0.css.map": "/azer/static/css/main.b62c0db0.css.map",
+    "main.e1c0609f.css.map": "/azer/static/css/main.e1c0609f.css.map",
     "main.7fbff439.js.map": "/azer/static/js/main.7fbff439.js.map",
     "787.05198fd8.chunk.js.map": "/azer/static/js/787.05198fd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b62c0db0.css",
+    "static/css/main.e1c0609f.css",
     "static/js/main.7fbff439.js"
   ]
 }
