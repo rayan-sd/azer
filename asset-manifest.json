@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/azer/static/css/main.9c88ce6a.css",
-    "main.js": "/azer/static/js/main.b63f9504.js",
+    "main.css": "/azer/static/css/main.480aa0a8.css",
+    "main.js": "/azer/static/js/main.45db972a.js",
     "static/js/787.05198fd8.chunk.js": "/azer/static/js/787.05198fd8.chunk.js",
     "static/media/back-roadmap.png": "/azer/static/media/back-roadmap.7d3bd2615b5020e538b4.png",
     "static/media/gif1.gif": "/azer/static/media/gif1.fe1e080e039d6709acc1.gif",
@@ -41,12 +41,12 @@
     "static/media/linkedin.svg": "/azer/static/media/linkedin.f912a382e4deb8bf223bdde7f1dd12c8.svg",
     "static/media/fb.svg": "/azer/static/media/fb.46a3f7f159579a7df6c8333d186e6aec.svg",
     "index.html": "/azer/index.html",
-    "main.9c88ce6a.css.map": "/azer/static/css/main.9c88ce6a.css.map",
-    "main.b63f9504.js.map": "/azer/static/js/main.b63f9504.js.map",
+    "main.480aa0a8.css.map": "/azer/static/css/main.480aa0a8.css.map",
+    "main.45db972a.js.map": "/azer/static/js/main.45db972a.js.map",
     "787.05198fd8.chunk.js.map": "/azer/static/js/787.05198fd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c88ce6a.css",
-    "static/js/main.b63f9504.js"
+    "static/css/main.480aa0a8.css",
+    "static/js/main.45db972a.js"
   ]
 }
